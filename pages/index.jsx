@@ -25,7 +25,7 @@ const projects = [
     number: '03',
     name: 'Paso Rapido APP/BO',
     type: 'App / backoffice',
-    description: 'A connected product ecosystem combining a customer-facing app with operational tools.',
+    description: 'An application for managing balances, top-ups, and toll-related operations nationwide, supported by an operational backoffice.',
     href: '#contact',
     accent: 'orange'
   },
@@ -41,7 +41,7 @@ const projects = [
     number: '05',
     name: 'Analisa APP',
     type: 'Mobile app',
-    description: 'A mobile experience designed around clear data, useful insights, and simple decision-making.',
+    description: 'A client-facing mobile app for a clinical laboratory, designed to make accessing services and health information easier.',
     href: '#contact',
     accent: 'lime'
   },
@@ -247,9 +247,9 @@ const projectDescriptions = {
   es: {
     'Aero Ambulancia': 'Solución digital para coordinar servicios de ambulancia aérea y mejorar el acceso al transporte médico urgente.',
     'Qik Banco Digital BO': 'Experiencia de banca digital diseñada para hacer los servicios financieros cotidianos más rápidos y accesibles.',
-    'Paso Rapido APP/BO': 'Ecosistema de producto conectado que combina una aplicación para clientes con herramientas operativas.',
+    'Paso Rapido APP/BO': 'Aplicación para gestionar saldos, recargas y operaciones relacionadas con peajes a nivel nacional, junto con su backoffice operativo.',
     'AFP Negocios': 'Plataforma digital enfocada en servicios empresariales, gestión de cuentas y claridad operativa.',
-    'Analisa APP': 'Experiencia móvil basada en datos claros, información útil y decisiones más sencillas.',
+    'Analisa APP': 'Aplicación móvil para los clientes de un laboratorio clínico, diseñada para facilitar el acceso a servicios e información de salud.',
     'ARS Futuro': 'Experiencia digital de salud que conecta a las personas con servicios e información de forma más eficiente.',
     'Cafeteria Banco Popular': 'Punto de contacto digital creado para hacer más fluida la experiencia bancaria y de hospitalidad.',
     'Casa del cordon ERP Popular': 'Software operativo para apoyar flujos estructurados, gestión de información y eficiencia interna.',
