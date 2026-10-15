@@ -65,7 +65,7 @@ const projects = [
     number: '08',
     name: 'Casa del cordon ERP Popular',
     type: 'ERP system',
-    description: 'Operational software supporting structured workflows, information management, and internal efficiency.',
+    description: 'An administrative platform for managing the operations and information of a cultural museum.',
     href: '#contact',
     accent: 'lime'
   },
@@ -252,7 +252,7 @@ const projectDescriptions = {
     'Analisa APP': 'Aplicación móvil para los clientes de un laboratorio clínico, diseñada para facilitar el acceso a servicios e información de salud.',
     'ARS Futuro': 'Experiencia digital para una aseguradora de salud, que conecta a sus afiliados con servicios, información de cobertura y soporte.',
     'Cafeteria Banco Popular': 'Sistema interno para gestionar los servicios de la cafetería del Banco Popular y la experiencia de sus empleados.',
-    'Casa del cordon ERP Popular': 'Software operativo para apoyar flujos estructurados, gestión de información y eficiencia interna.',
+    'Casa del cordon ERP Popular': 'Plataforma administrativa para gestionar las operaciones y la información de un museo cultural.',
     'CCN Recursos Humanos': 'Plataforma centrada en las personas para organizar procesos de recursos humanos y operaciones internas.',
     'Guías CCN': 'Guía digital práctica que ayuda a descubrir información y navegar servicios con facilidad.',
     'Konectame': 'Plataforma creada para conectar personas, servicios e información útil mediante una experiencia enfocada.',
