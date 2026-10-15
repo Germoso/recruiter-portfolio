@@ -49,7 +49,7 @@ const projects = [
     number: '06',
     name: 'ARS Futuro',
     type: 'Health platform',
-    description: 'A digital healthcare experience connecting users with services and information more efficiently.',
+    description: 'A digital experience for a health insurance provider, connecting members with services, coverage information, and support.',
     href: '#contact',
     accent: 'violet'
   },
@@ -250,7 +250,7 @@ const projectDescriptions = {
     'Paso Rapido APP/BO': 'Aplicación para gestionar saldos, recargas y operaciones relacionadas con peajes a nivel nacional, junto con su backoffice operativo.',
     'AFP Negocios': 'Plataforma digital enfocada en servicios empresariales, gestión de cuentas y claridad operativa.',
     'Analisa APP': 'Aplicación móvil para los clientes de un laboratorio clínico, diseñada para facilitar el acceso a servicios e información de salud.',
-    'ARS Futuro': 'Experiencia digital de salud que conecta a las personas con servicios e información de forma más eficiente.',
+    'ARS Futuro': 'Experiencia digital para una aseguradora de salud, que conecta a sus afiliados con servicios, información de cobertura y soporte.',
     'Cafeteria Banco Popular': 'Punto de contacto digital creado para hacer más fluida la experiencia bancaria y de hospitalidad.',
     'Casa del cordon ERP Popular': 'Software operativo para apoyar flujos estructurados, gestión de información y eficiencia interna.',
     'CCN Recursos Humanos': 'Plataforma centrada en las personas para organizar procesos de recursos humanos y operaciones internas.',
