@@ -105,7 +105,7 @@ const projects = [
     number: '13',
     name: 'All in Drinks',
     type: 'E-commerce experience',
-    description: 'A product-led commerce experience designed to present a brand and its catalog with energy.',
+    description: 'A platform and mobile app for selling wines, combining catalog management with a direct customer experience.',
     href: '#contact',
     accent: 'violet'
   },
@@ -257,7 +257,7 @@ const projectDescriptions = {
     'Guías CCN': 'Aplicación para la gestión de transportistas, su información y los procesos operativos relacionados.',
     'Konectame': 'Plataforma creada para conectar personas, servicios e información útil mediante una experiencia enfocada.',
     'Vyana': 'Producto digital pulido que prioriza la claridad, la usabilidad y una interfaz memorable.',
-    'All in Drinks': 'Experiencia de comercio enfocada en productos, creada para presentar una marca y su catálogo con energía.',
+    'All in Drinks': 'Plataforma y aplicación móvil para la venta de vinos, combinando la gestión del catálogo con una experiencia directa para los clientes.',
     'Grid Autodetailing': 'Presencia digital sólida para un negocio de detailing automotriz, enfocada en confianza y conversión.'
   },
   en: Object.fromEntries(projects.map(project => [project.name, project.description]))
