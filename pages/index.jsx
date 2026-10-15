@@ -57,7 +57,7 @@ const projects = [
     number: '07',
     name: 'Cafeteria Banco Popular',
     type: 'Customer experience',
-    description: 'A digital touchpoint created to make an everyday banking and hospitality experience feel more seamless.',
+    description: 'An internal system for managing Banco Popular\'s cafeteria services and employee experience.',
     href: '#contact',
     accent: 'blue'
   },
@@ -251,7 +251,7 @@ const projectDescriptions = {
     'AFP Negocios': 'Plataforma digital enfocada en servicios empresariales, gestión de cuentas y claridad operativa.',
     'Analisa APP': 'Aplicación móvil para los clientes de un laboratorio clínico, diseñada para facilitar el acceso a servicios e información de salud.',
     'ARS Futuro': 'Experiencia digital para una aseguradora de salud, que conecta a sus afiliados con servicios, información de cobertura y soporte.',
-    'Cafeteria Banco Popular': 'Punto de contacto digital creado para hacer más fluida la experiencia bancaria y de hospitalidad.',
+    'Cafeteria Banco Popular': 'Sistema interno para gestionar los servicios de la cafetería del Banco Popular y la experiencia de sus empleados.',
     'Casa del cordon ERP Popular': 'Software operativo para apoyar flujos estructurados, gestión de información y eficiencia interna.',
     'CCN Recursos Humanos': 'Plataforma centrada en las personas para organizar procesos de recursos humanos y operaciones internas.',
     'Guías CCN': 'Guía digital práctica que ayuda a descubrir información y navegar servicios con facilidad.',
