@@ -81,7 +81,7 @@ const projects = [
     number: '10',
     name: 'Guías CCN',
     type: 'Digital guide',
-    description: 'A practical digital guide experience that helps users discover information and navigate services.',
+    description: 'An app for managing transport operators, their information, and related operational processes.',
     href: '#contact',
     accent: 'orange'
   },
@@ -254,7 +254,7 @@ const projectDescriptions = {
     'Cafeteria Banco Popular': 'Sistema interno para gestionar los servicios de la cafetería del Banco Popular y la experiencia de sus empleados.',
     'Casa del cordon ERP Popular': 'Plataforma administrativa para gestionar las operaciones y la información de un museo cultural.',
     'CCN Recursos Humanos': 'Plataforma centrada en las personas para organizar procesos de recursos humanos y operaciones internas.',
-    'Guías CCN': 'Guía digital práctica que ayuda a descubrir información y navegar servicios con facilidad.',
+    'Guías CCN': 'Aplicación para la gestión de transportistas, su información y los procesos operativos relacionados.',
     'Konectame': 'Plataforma creada para conectar personas, servicios e información útil mediante una experiencia enfocada.',
     'Vyana': 'Producto digital pulido que prioriza la claridad, la usabilidad y una interfaz memorable.',
     'All in Drinks': 'Experiencia de comercio enfocada en productos, creada para presentar una marca y su catálogo con energía.',
